@@ -32,7 +32,7 @@ Aqui estão as principais tecnologias que utilizo para transformar dados em resu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuibasURL&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="150"/>
 </p>
 
-### 📫 Vamos nos conectar!
+## 📫 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsousabarbosa21@gmail.com)
+* **LinkedIn:** [linkedin.com/in/guilherme-sousa-170928350/](https://www.linkedin.com/in/guilherme-sousa-170928350/)
+* **E-mail:** [gsousabarbosa21@gmail.com](mailto:gsousabarbosa21@gmail.com)
