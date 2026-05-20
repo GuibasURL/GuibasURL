@@ -1,44 +1,36 @@
 # Olá, eu sou o Guilherme Sousa! 👋
 
-Sou estudante de **Engenharia de Software** na **UFC Quixadá - CE** e desenvolvedor com foco em **Front-end**. Sou movido pela curiosidade e gosto de aprender coisas novas constantemente para expandir meu repertório técnico e evoluir profissionalmente.
+Sou estudante de **Engenharia de Software** na UFC Quixadá - CE e atuo com foco em **Análise de Dados**. Sou apaixonado por transformar dados brutos em decisões estratégicas e gerar impacto real através da inteligência de negócios e visualização de dados.
 
-### 👩‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-- 🎓 Graduando em Engenharia de Software pela Universidade Federal do Ceará (UFC - Campus Quixadá).
-- 💻 Foco principal em **Desenvolvimento Front-end**, construindo interfaces dinâmicas, responsivas e integradas.
-- 🎨 Experiência prática com prototipação de interfaces e UI/UX design para aplicações web e desktop.
-- ⚙️ Fortalecendo minha base em engenharia com estudos em Padrões de Projeto (GoF), Modelagem de Bancos de Dados e Redes de Computadores.
-- 🚀 Entusiasta de boas práticas, versionamento de código e automação de pipelines (CI/CD).
-- 🎯 Buscando oportunidades para atuar como Desenvolvedor Front-end e contribuir com projetos de impacto.
+* 🎓 Graduando em Engenharia de Software pela Universidade Federal do Ceará (UFC - Campus Quixadá).
+* 📊 Foco principal em **Análise de Dados**, atuando com extração, tratamento, modelagem e visualização de informações.
+* 🎯 Experiência prática com metodologias ágeis, atuando como Product Owner (PO) e garantindo o alinhamento entre a área técnica e a visão de negócios.
+* ⚙️ Base sólida em modelagem de bancos de dados relacionais e desenvolvimento orientado a objetos.
+* 🚀 Buscando oportunidades de estágio ou vaga júnior para atuar com Dados e contribuir com soluções estratégicas.
 
-### 🚀 Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-Aqui estão as principais tecnologias que utilizo e estou aprimorando no meu dia a dia:
+Aqui estão as principais tecnologias que utilizo para transformar dados em resultados:
 
-**Linguagens & Front-end:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Análise de Dados & Banco de Dados:**
+* Python (Pandas)
+* SQL (PostgreSQL, SQLite)
+* Microsoft Power BI
+* Microsoft Excel
 
-**Design & Prototipação:**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Engenharia de Software & Gestão:**
+* Metodologias Ágeis (Kanban, Visão de Produto/PO, ClickUp)
+* Git & GitHub
+* Conhecimentos complementares em Front-end (JavaScript, TypeScript, HTML/CSS) e prototipação (Figma)
 
-**Back-end & Banco de Dados:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+## 📈 Minhas Estatísticas
 
-**Ferramentas & DevOps:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuibasURL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuibasURL&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuibasURL&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuibasURL&layout=compact&theme=radical" alt="Linguagens Mais Usadas" height="150"/>
+</p>
 
 ### 📫 Vamos nos conectar!
 
